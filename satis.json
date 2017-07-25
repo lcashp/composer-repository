@@ -468,6 +468,8 @@
       { "type": "vcs", "url": "git://github.com/mailchimp/mc-magento.git" },
       { "type": "vcs", "url": "git://github.com/bartnowaczyk/log.git" },
       { "type": "vcs", "url": "git://github.com/matiashidalgo/static-version.git" },
+      { "type": "vcs", "url": "git://github.com/mcashp/magento-module-core.git" },
+      { "type": "vcs", "url": "git://github.com/mcashp/magento-module-affiliate.git" },
       { "type": "composer", "url": "https://packages.fooman.co.nz/" },
       { "type": "composer", "url": "https://repo.magento.com/" },
       { "type": "composer", "url": "https://packages.firegento.com/connect20/" },
